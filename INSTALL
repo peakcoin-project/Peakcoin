@@ -1,0 +1,9 @@
+Building Peakcoin
+
+See doc/readme-qt.rst for instructions on building Peakcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Peakcoin.
+
+See doc/build-*.txt for instructions on building peakcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Peakcoin.
